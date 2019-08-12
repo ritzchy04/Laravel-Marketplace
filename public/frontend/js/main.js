@@ -353,7 +353,7 @@
 		17. Background Toutube Video 
 	******************************************** */
     $(".youtube-bg").YTPlayer({
-		videoURL:"https://youtu.be/k0uunjINr7g",
+		videoURL:"https://youtu.be/Oq8z-U3bPgo",
 		containment:'.youtube-bg',
 		mute:false,
 		loop:true,

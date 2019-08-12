@@ -6,7 +6,7 @@
                 <div class="row">
                     <div class="col-sm-6 hidden-xs">
                         <div class="call-us">
-                            <p class="mb-0 roboto">(+88) 01234-567890</p>
+                            <p class="mb-0 roboto">(+1) 512766-4912</p>
                         </div>
                     </div>
                     <div class="col-sm-6 col-xs-12">
